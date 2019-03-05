@@ -1,0 +1,31 @@
+{
+  "name": "trends-bot",
+  "version": "1.0.0",
+  "description": "Robô que coleta tendência e analisa quais são os assuntos mais populares",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felpdev/trends-bot.git"
+  },
+  "keywords": [
+    "bot",
+    "trends",
+    "bot",
+    "trends",
+    "robô",
+    "nodejs"
+  ],
+  "author": "Felipe 0liveira (felpd3v)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felpdev/trends-bot/issues"
+  },
+  "homepage": "https://github.com/felpdev/trends-bot#readme",
+  "dependencies": {
+    "chromedriver": "^2.46.0",
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  }
+}
